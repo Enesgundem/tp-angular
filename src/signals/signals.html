@@ -1,0 +1,10 @@
+<section class="signals-demo text-center">
+  <p [ngStyle]="signalClass">
+    Counter Value: {{ counter() }}
+  </p>
+  <div class="actions">
+    <button class="btn btn-primary" type="button" (click)="increment()">+</button>
+    <button class="btn btn-warning" type="button" (click)="reset()">Reset</button>
+    <button class="btn btn-danger" type="button" (click)="decrement()">-</button>
+  </div>
+</section>
