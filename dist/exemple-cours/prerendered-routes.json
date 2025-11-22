@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/": {},
+    "/data-binding": {},
+    "/structural-directive-ngfor-vs-for": {},
+    "/structural-directive-ngif-vs-if": {},
+    "/structural-directives-ng-switch-vs-switch": {}
+  }
+}

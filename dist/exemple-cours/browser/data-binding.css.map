@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/component/data-binding/data-binding.css"],
+  "sourcesContent": ["section.binding-demo {\r\n  max-width: 420px;\r\n  margin: 0 auto;\r\n  text-align: center;\r\n  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\r\n}\r\n\r\nsection.binding-demo article,\r\nsection.binding-demo figure {\r\n  margin: 16px 0;\r\n}\r\n\r\nsection.binding-demo img {\r\n  border: 1px solid #000;\r\n  border-radius: 4px;\r\n}\r\n\r\nsection.binding-demo input,\r\nsection.binding-demo select,\r\nsection.binding-demo button {\r\n  display: block;\r\n  width: 100%;\r\n  margin: 8px auto;\r\n  padding: 6px 10px;\r\n}\r\n\r\nsection.binding-demo button {\r\n  width: 120px;\r\n}\r\n"],
+  "mappings": ";AAAA,OAAO,CAAC;AACN,aAAW;AACX,UAAQ,EAAE;AACV,cAAY;AACZ;AAAA,IAAa,UAAU;AAAA,IAAE,MAAM;AAAA,IAAE,MAAM;AAAA,IAAE,OAAO;AAAA,IAAE;AACpD;AAEA,OAAO,CAPC,aAOa;AACrB,OAAO,CARC,aAQa;AACnB,UAAQ,KAAK;AACf;AAEA,OAAO,CAZC,aAYa;AACnB,UAAQ,IAAI,MAAM;AAClB,iBAAe;AACjB;AAEA,OAAO,CAjBC,aAiBa;AACrB,OAAO,CAlBC,aAkBa;AACrB,OAAO,CAnBC,aAmBa;AACnB,WAAS;AACT,SAAO;AACP,UAAQ,IAAI;AACZ,WAAS,IAAI;AACf;AAEA,OAAO,CA1BC,aA0Ba;AACnB,SAAO;AACT;",
+  "names": []
+}
